@@ -1,5 +1,7 @@
 # Bridge pattern
 
+The bridge pattern is a structural pattern.
+
 ## Intent
 
 - Decouple an abstraction from its implementation
