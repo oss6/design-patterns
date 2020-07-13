@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "Composi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{1A714581-750E-4113-9284-B136B96C43E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{4E4C644E-67AE-4348-AE54-615F48E19A10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1A714581-750E-4113-9284-B136B96C43E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A714581-750E-4113-9284-B136B96C43E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A714581-750E-4113-9284-B136B96C43E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4C644E-67AE-4348-AE54-615F48E19A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4C644E-67AE-4348-AE54-615F48E19A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4C644E-67AE-4348-AE54-615F48E19A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4C644E-67AE-4348-AE54-615F48E19A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
